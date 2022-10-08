@@ -13,6 +13,8 @@
 ## Description
 
 _This is an example of a landing webpage build using html,css and Javascript.The webpage is meant to attract potential customers who visit the website._
+##### _Follow the link below to view the webpage_
+https://chic-lamington-7216f9.netlify.app
 
 ## Setup/Installation Requirements
 
